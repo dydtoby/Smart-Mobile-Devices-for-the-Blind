@@ -1,8 +1,3 @@
-# -*- coding:utf-8 -*-
-"""
-Created on  # 19:28  19:28
-@author: hlink
-"""
 import subprocess
 import wave
 import requests
